@@ -1,6 +1,6 @@
 ## Hey 👋, This is Eduardo González Sevilla
 [![Gmail Badge](https://img.shields.io/badge/-monsignor.eduardo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:monsignor.eduardo@gmail.com)](mailto:monsignor.eduardo@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-MonsignorEduardo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MonsignorEduardo/)](https://www.github.com/MonsignorEduardo/) <p align='left'>Currently working for https://connectif.ai/</p>
+[![Github Badge](https://img.shields.io/badge/-MonsignorEduardo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/MonsignorEduardo/)](https://www.github.com/MonsignorEduardo/)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MonsignorEduardo alt=MonsignorEduardo /> </p>
 
