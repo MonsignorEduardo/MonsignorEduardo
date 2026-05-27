@@ -100,15 +100,6 @@ Forward to all [ absolutely ]
 
 <div align="center">
 
-## Guestbook
-
-```text
-<blink> thanks for stopping by </blink>
-
-Sign the guestbook by starring something weird,
-opening an issue with an over-specific title,
-or sending a PR that makes the robots happy.
-```
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,20,12&section=footer&animation=twinkling)
 
