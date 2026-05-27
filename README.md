@@ -2,9 +2,14 @@
 
 ![Welcome to Eduardo's profile](https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&customColorList=12,20,24,30&text=Eduardo's%20GitHub%20Zone&fontColor=ffffff&fontSize=42&animation=twinkling&desc=best%20viewed%20with%20too%20many%20tabs%20open&descAlignY=73)
 
-[![Profile views](https://komarev.com/ghpvc/?username=MonsignorEduardo&style=for-the-badge&color=ff69b4&label=VISITORS)](https://github.com/MonsignorEduardo)
 [![GitHub](https://img.shields.io/badge/GitHub-MonsignorEduardo-7d12ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MonsignorEduardo)
 ![Mood](https://img.shields.io/badge/mood-to%20flama-ff0080?style=for-the-badge)
+
+<img src="https://www.habboassets.com/assets/images/catalog/icons/icon_1.png" alt="Habbo catalog icon" width="44" />
+<img src="https://www.habboassets.com/assets/images/catalog/icons/icon_8.png" alt="Habbo catalog icon" width="44" />
+<img src="https://www.habboassets.com/assets/images/catalog/icons/icon_15.png" alt="Habbo catalog icon" width="44" />
+<img src="https://www.habboassets.com/assets/images/catalog/icons/icon_23.png" alt="Habbo catalog icon" width="44" />
+<img src="https://www.habboassets.com/assets/images/catalog/icons/icon_42.png" alt="Habbo catalog icon" width="44" />
 
 </div>
 
@@ -14,7 +19,7 @@
   <tr>
     <td width="62%" valign="top">
 
-## Eduardo's Blinged-Out Profile
+## <img src="https://www.habboassets.com/assets/images/catalog/icons/icon_20.png" alt="" width="28" /> Eduardo's Blinged-Out Profile
 
 ```text
 Name:        Eduardo
@@ -39,10 +44,16 @@ I like building useful things, breaking them in interesting ways, and then makin
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
 
+### Catalog Shelf
+
+| <img src="https://www.habboassets.com/assets/images/catalog/icons/icon_55.png" alt="" width="36" /> | <img src="https://www.habboassets.com/assets/images/catalog/icons/icon_72.png" alt="" width="36" /> | <img src="https://www.habboassets.com/assets/images/catalog/icons/icon_89.png" alt="" width="36" /> | <img src="https://www.habboassets.com/assets/images/catalog/icons/icon_101.png" alt="" width="36" /> |
+| --- | --- | --- | --- |
+| code cave | weird ideas | tiny tools | hotfix aura |
+
     </td>
     <td width="38%" valign="top">
 
-## Contact Box
+## <img src="https://www.habboassets.com/assets/images/catalog/icons/icon_31.png" alt="" width="28" /> Contact Box
 
 ```text
 Send message   [ GitHub issues ]
@@ -51,13 +62,13 @@ Block user     [ please don't ]
 Forward to all [ absolutely ]
 ```
 
-## Profile Song
+## <img src="https://www.habboassets.com/assets/images/catalog/icons/icon_76.png" alt="" width="28" /> Profile Song
 
 ```text
 ♪ dial-up modem solo ♪
 ```
 
-## Interests
+## <img src="https://www.habboassets.com/assets/images/catalog/icons/icon_97.png" alt="" width="28" /> Interests
 
 - clean code
 - chaotic side quests
@@ -73,34 +84,14 @@ Forward to all [ absolutely ]
 
 <div align="center">
 
-## Top 8
+## <img src="https://www.habboassets.com/assets/images/catalog/icons/icon_108.png" alt="" width="28" /> Guestbook
 
-| ![Elixir](https://skillicons.dev/icons?i=elixir) | ![Phoenix](https://skillicons.dev/icons?i=phoenix) | ![TypeScript](https://skillicons.dev/icons?i=ts) | ![React](https://skillicons.dev/icons?i=react) |
-| --- | --- | --- | --- |
-| Elixir | Phoenix | TypeScript | React |
-| ![Postgres](https://skillicons.dev/icons?i=postgres) | ![Docker](https://skillicons.dev/icons?i=docker) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Vim](https://skillicons.dev/icons?i=vim) |
-| Postgres | Docker | GitHub | Vim |
+```text
+<blink> thanks for stopping by </blink>
 
-</div>
-
----
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=MonsignorEduardo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=00ffff" alt="Eduardo's GitHub stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonsignorEduardo&layout=compact&theme=radical&hide_border=true&title_color=ff69b4" alt="Eduardo's top languages" />
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,20,12&section=footer&animation=twinkling)
+Sign the guestbook by starring something weird,
+opening an issue with an over-specific title,
+or sending a PR that makes the robots happy.
+```
 
 </div>
